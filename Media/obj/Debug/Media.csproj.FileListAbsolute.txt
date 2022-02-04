@@ -1,0 +1,7 @@
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\bin\Debug\Media.exe.config
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\bin\Debug\Media.exe
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\bin\Debug\Media.pdb
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\obj\Debug\Media.csprojAssemblyReference.cache
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\obj\Debug\Media.exe
+C:\Users\Rodrigo gato\Programação\Cs\Media\Media\obj\Debug\Media.pdb
